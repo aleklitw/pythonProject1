@@ -18,4 +18,4 @@ def prime(n):
         return "number is prime"
 
 
-print(prime(9))
+print(prime(int))
