@@ -1,4 +1,5 @@
 def prime(n):
+    n = int(input("Enter a number: "))
     number = False
     if n < 0:
         return "please insert a natural number"
